@@ -1,0 +1,40 @@
+header, footer {
+  background-color: black
+
+}
+main{
+  padding: 20px 10px;
+  background-color: #bdc1c7;
+}
+ul {
+  padding-right: 20px;
+  color: white;
+}
+a:visited{
+  color: white;
+  }
+  li a{
+    text-decoration: none;
+  }
+li{
+
+  font-weight: bold;
+font-size: 20px;
+  margin-right: 13px;
+  padding-left: 5px;
+  display: inline-block;
+}
+.footer{
+    color: white ;
+    text-align: center;
+}
+p{
+  column-fill: balance;
+  column-rule: 2px double black;
+  column-count: 4;
+}
+h1{
+  margin-left: 0px;
+
+
+}
